@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@nestjs/cli": "^10.1.16",
+    "@nestjs/common": "^10.2.0",
+    "@nestjs/core": "^10.2.0",
+    "@nestjs/platform-express": "^10.2.0",
+    "reflect-metadata": "^0.1.13",
+    "typescript": "^5.1.6"
+  },
+  "name": "nestjs-stephengrider-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": " ts-node ./src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oabanin/nestjs-stephengrider-scratch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oabanin/nestjs-stephengrider-scratch/issues"
+  },
+  "homepage": "https://github.com/oabanin/nestjs-stephengrider-scratch#readme",
+  "description": ""
+}
